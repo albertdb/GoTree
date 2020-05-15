@@ -7,10 +7,10 @@ import (
 
 const (
 	newLine      = "\n"
-	emptySpace   = "    "
-	middleItem   = "├── "
-	continueItem = "│   "
-	lastItem     = "└── "
+	emptySpace   = "   "
+	middleItem   = "├─ "
+	continueItem = "│  "
+	lastItem     = "└─ "
 )
 
 type (
